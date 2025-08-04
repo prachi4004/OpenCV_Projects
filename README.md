@@ -34,7 +34,7 @@ This project detects hand gestures (1 to 5 fingers) using a webcam and recognize
 ```bash
 pip install opencv-python numpy
 ```
-### To Run the Program
+### ▶️ To Run the Program
 ```bash
 python hand_gesture.py
 ```
